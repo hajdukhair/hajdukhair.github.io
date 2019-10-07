@@ -578,6 +578,10 @@ section.form .container {
 #contacts2-f P {
   text-align: left;
 }
+#contacts2-f DIV {
+  text-align: left;
+  color: #bfcecb;
+}
 #ext_menu-x .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -642,6 +646,10 @@ section.form .container {
 #contacts2-y P {
   text-align: left;
 }
+#contacts2-y DIV {
+  text-align: left;
+  color: #bfcecb;
+}
 #ext_menu-v .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -705,4 +713,8 @@ section.form .container {
 }
 #contacts2-w P {
   text-align: left;
+}
+#contacts2-w DIV {
+  text-align: left;
+  color: #bfcecb;
 }

@@ -273,7 +273,7 @@
             "paddingBottom": "3",
             "bgColor": "#000000"
           },
-          "text": "<p>Badanie trychologiczne - diagnoza skóry głowy i włosów za pomocą mikrokamery, wykonanie trichoskopii.</p><p>Leczenie wypadania włosów, wszystkich rodzajów łysienia, łuszczycę, łojtok, przetłuszczanie włosów, zapelenia skóry głowy.</p>",
+          "text": "<p>Badanie trychologiczne - diagnoza skóry głowy i włosów za pomocą mikrokamery, wykonanie trichoskopii.</p><p>Leczenie wypadania włosów, wszystkich rodzajów łysienia, łuszczycy, łojtoku, przetłuszczania włosów, zapelenia skóry głowy.</p>",
           "_tags": [
             "Motywy"
           ],
@@ -384,7 +384,7 @@
             "paddingBottom": "3",
             "bgColor": "#000000"
           },
-          "text": "<p>Zabieg dobieramy indywidualnie po wnikliwej konsultacji i analizie włosa. Pracujemy wyłącznie na włosach najlepszej jakości.</p>",
+          "text": "<p>Zabieg przedłużania / zagęszczania i medodę dobieramy indywidualnie po wnikliwej konsultacji i analizie włosa. Pracujemy wyłącznie na włosach najlepszej jakości.&nbsp;</p>",
           "_tags": [
             "Motywy"
           ],
@@ -435,7 +435,7 @@
             {
               "authorName": "Suffian A.",
               "authorBio": "User",
-              "text": "Badanie trychologiczne &nbsp; 50 - 100 zł",
+              "text": "Badanie trychologiczne / analiza skóry głowy i włosów &nbsp; 50 - 100 zł",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -477,7 +477,7 @@
             {
               "authorName": "John Smith",
               "authorBio": "Developer",
-              "text": "<p>Koloryzacja ( w tym mycie, strzyżenie i stylizacja )</p><p>globalna &nbsp; 230 -250 zł</p><p>wielotonowa &nbsp; 250 - 350 zł</p><p>refleksy po koronie &nbsp; 200 - 250 zł</p><p>dekoloryzacja globalna odrost &nbsp; 200 - 300 zł</p><p>balayage &nbsp; 250 - 350 zł</p><p>tonowanie ( po zabiegu rozjaśniania ) &nbsp; + 100 zł</p><p>modyfikacja koloru cena ustalana indywidualnie&nbsp;</p><p>prekoloryzacja &nbsp; 50 - 100 zł</p><p>cover męski &nbsp; 100 zł</p>",
+              "text": "<p>Koloryzacja ( w tym mycie, strzyżenie i stylizacja )</p><p>globalna &nbsp; 230 -250 zł</p><p>wielotonowa &nbsp; 250 - 350 zł</p><p>refleksy po koronie &nbsp; 200 - 250 zł</p><p>dekoloryzacja globalna odrost &nbsp; 200 - 300 zł</p><p>balayage &nbsp; 250 - 350 zł</p><p>tonowanie ( po zabiegu rozjaśniania ) &nbsp; + 100 zł</p><p>modyfikacja koloru - cena ustalana indywidualnie&nbsp;</p><p>prekoloryzacja &nbsp; 50 - 100 zł</p><p>cover - dla mężczyzn &nbsp; 100 zł</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -491,7 +491,7 @@
             {
               "authorName": "John Smith",
               "authorBio": "Developer",
-              "text": "<p>stylizacja :</p><p>modelowanie &nbsp; 50 -70 zł</p><p>prostowanie &nbsp; 60 - 80 zł</p><p>wieczorowa &nbsp; 150 - 250 zł</p><p>ślubna &nbsp; 200 - 300 zł</p>",
+              "text": "<p>Stylizacja :</p><p>modelowanie &nbsp; 50 -70 zł</p><p>prostowanie &nbsp; 60 - 80 zł</p><p>wieczorowa &nbsp; 150 - 250 zł</p><p>ślubna &nbsp; 200 - 300 zł</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -533,7 +533,7 @@
             {
               "authorName": "John Smith",
               "authorBio": "Developer",
-              "text": "<p>przedłużanie / zagęszczanie :</p><p>1 gram włosów z założeniem ( ultradźwięki ) &nbsp; 18 zł</p><p>korekta ( podciąganie pasemka ) &nbsp; 10 zł</p><p>zdjęcie włosów &nbsp; 60 -100 zł</p><p>1 kanapka z założeniem &nbsp; 75 - 80 zł</p><p>korekta ( podciągnięcie taśmy ) &nbsp; 10 zł &nbsp;/ &nbsp;kanapka &nbsp; 20 zł</p><p>zdjęcie kanapek &nbsp; 60 - 100 zł</p>",
+              "text": "<p>Przedłużanie / zagęszczanie :</p><p>1 gram włosów z założeniem ( ultradźwięki ) &nbsp; 18 zł</p><p>korekta ( podciąganie pasemka ) &nbsp; 10 zł</p><p>zdjęcie włosów &nbsp; 60 -100 zł</p><p>1 kanapka z założeniem &nbsp; 75 - 80 zł</p><p>korekta ( podciągnięcie taśmy ) &nbsp; 10 zł &nbsp;/ &nbsp;kanapka &nbsp; 20 zł</p><p>zdjęcie kanapek &nbsp; 60 - 100 zł</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -607,7 +607,7 @@
             }
           },
           "text1": "<strong>Adres</strong><br>Ul. Piotrkowska 31/3<br>25-510 Kielce<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Kontakt</b></span></font><br>\n<a href=\"mailto:hajdukhair@gmail.com\" class=\"text-info\">Email: hajdukhair@gmail.com</a><br>Tel, : <a href=\"tel:*48730104744\" class=\"text-info\">+48 730 104 744</a><br><br>",
-          "text2": "Polska",
+          "text2": "<p>Polska</p><p><br></p><p>Salon, fryzjer, syudio, przedłużanie włosów, strzyżenie, hajdukhair, hajduk,</p><p>uroda, trychologia, trycholog, keratyna.<span style=\"font-size: 0.875rem;\">&nbsp;</span></p>",
           "_tags": [
             "Motywy"
           ],
@@ -616,6 +616,10 @@
           "_styles": {
             "P": {
               "text-align": "left"
+            },
+            "DIV": {
+              "text-align": "left",
+              "color": "#bfcecb"
             }
           }
         }
@@ -737,7 +741,7 @@
             }
           },
           "text1": "<strong>Adres</strong><br>Ul. Piotrkowska 31/3<br>25-510 Kielce<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Kontakt</b></span></font><br>\n<a href=\"mailto:hajdukhair@gmail.com\" class=\"text-info\">Email: hajdukhair@gmail.com</a><br>Tel, : <a href=\"tel:*48730104744\" class=\"text-info\">+48 730 104 744</a><br><br>",
-          "text2": "Polska",
+          "text2": "<p>Polska</p><p><br></p><p>Salon, fryzjer, syudio, przedłużanie włosów, strzyżenie, hajdukhair, hajduk,</p><p>uroda, trychologia, trycholog, keratyna.<span style=\"font-size: 0.875rem;\">&nbsp;</span></p>",
           "_tags": [
             "Motywy"
           ],
@@ -745,6 +749,10 @@
           "_styles": {
             "P": {
               "text-align": "left"
+            },
+            "DIV": {
+              "text-align": "left",
+              "color": "#bfcecb"
             }
           },
           "_anchor": "contacts2-y"
@@ -867,7 +875,7 @@
             }
           },
           "text1": "<strong>Adres</strong><br>Ul. Piotrkowska 31/3<br>25-510 Kielce<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Kontakt</b></span></font><br>\n<a href=\"mailto:hajdukhair@gmail.com\" class=\"text-info\">Email: hajdukhair@gmail.com</a><br>Tel, : <a href=\"tel:*48730104744\" class=\"text-info\">+48 730 104 744</a><br><br>",
-          "text2": "Polska",
+          "text2": "<p>Polska</p><p><br></p><p>Salon, fryzjer, syudio, przedłużanie włosów, strzyżenie, hajdukhair, hajduk,</p><p>uroda, trychologia, trycholog, keratyna.<span style=\"font-size: 0.875rem;\">&nbsp;</span></p>",
           "_tags": [
             "Motywy"
           ],
@@ -875,6 +883,10 @@
           "_styles": {
             "P": {
               "text-align": "left"
+            },
+            "DIV": {
+              "text-align": "left",
+              "color": "#bfcecb"
             }
           },
           "_anchor": "contacts2-w"
