@@ -31,8 +31,8 @@
     "favicon": "@PROJECT_PATH@/assets/images/gosia-favicon-2-128x128-1.png",
     "noImageResize": "",
     "siteUrl": "",
-    "cookiesAlert": "",
-    "gdpr": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-149327719-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-149327719-1');\r\n</script>",
     "sitemapSwitcherAuto": "on",
     "uniqCompNum": 35,
@@ -61,13 +61,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#7e9b9f",
-            "fontSize": "1.05",
+            "bgColor": "#7c706b",
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\"><span class=\"mobi-mbri mobi-mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\"><span class=\"mobi-mbri mobi-mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
           "_tags": [
             "Motywy"
           ],
@@ -88,22 +88,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#648286"
+              "background": "#615753"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#759498!important"
+              "background": "#746964!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#7e9b9f"
+              "background": "#7c706b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -641,13 +641,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#7e9b9f",
-            "fontSize": "1.05",
+            "bgColor": "#7c706b",
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\"><span class=\"mobi-mbri mobi-mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\"><span class=\"mobi-mbri mobi-mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
           "_tags": [
             "Motywy"
           ],
@@ -775,13 +775,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#7e9b9f",
-            "fontSize": "1.05",
+            "bgColor": "#7c706b",
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\"><span class=\"mobi-mbri mobi-mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\"><span class=\"mobi-mbri mobi-mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
           "_tags": [
             "Motywy"
           ],
