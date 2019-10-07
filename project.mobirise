@@ -38,8 +38,8 @@
     "uniqCompNum": 35,
     "versionPublish": "4.10.15",
     "screenshot": "screenshot.png",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n",
-    "robotsSwitcher": "on"
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": ""
   },
   "pages": {
     "index.html": {
