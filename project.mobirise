@@ -23,7 +23,8 @@
       "additionalSetColors": [
         "#f40d23",
         "#bfcecb",
-        "#ac9595"
+        "#ac9595",
+        "#66605e"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -62,7 +63,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#66605e",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
@@ -104,13 +105,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#4b4746"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#5e5957!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#66605e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -648,7 +649,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#66605e",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
@@ -786,7 +787,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#66605e",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
@@ -924,7 +925,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#66605e",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
@@ -952,7 +953,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
               "font-size": "1rem"
@@ -964,13 +967,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#545251"
+              "background": "#967878"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#666362!important"
+              "background": "#a58c8c!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#6e6b6a"
+              "background": "#ac9595"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
