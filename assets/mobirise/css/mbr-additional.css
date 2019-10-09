@@ -585,6 +585,7 @@ section.form .container {
   text-align: left;
   color: #bfcecb;
 }
+
 #ext_menu-x .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -601,6 +602,7 @@ section.form .container {
 #ext_menu-x .link,
 #ext_menu-x .dropdown-item {
   color: #ffffff;
+  font-family: 'Roboto', sans-serif;
 }
 #ext_menu-x .link {
   font-size: 1rem;
@@ -617,19 +619,19 @@ section.form .container {
 }
 #ext_menu-x .link[aria-expanded="true"],
 #ext_menu-x .dropdown-menu {
-  background: #545251;
+  background: #4b4746;
 }
 #ext_menu-x .nav-dropdown-sm .link:focus,
 #ext_menu-x .nav-dropdown-sm .link:hover,
 #ext_menu-x .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-x .nav-dropdown-sm .dropdown-item:hover {
-  background: #666362!important;
+  background: #5e5957!important;
 }
 #ext_menu-x .navbar,
 #ext_menu-x .nav-dropdown-sm,
 #ext_menu-x .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-x .nav-dropdown-sm .dropdown-menu {
-  background: #6e6b6a;
+  background: #66605e;
 }
 #ext_menu-x .bg-color.transparent .link {
   color: #ffffff;

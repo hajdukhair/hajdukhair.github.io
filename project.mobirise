@@ -315,7 +315,7 @@
             "paddingBottom": "3",
             "bgColor": "#000000"
           },
-          "text": "<p>Wykonujemy koloryzację permanentną, demi-permanentną, semi-permanentną, </p><p>&nbsp;czyli :</p><p>- koloryzacja globalna&nbsp;</p><p>- koloryzacja wielotonowa</p><p>- balayage</p><p>- flamboyage</p><p>- sombre</p><p>- sunkiss</p><p>- tonowanie</p><p>- modyfikacja koloru</p><p>- prekoloryzacja</p>",
+          "text": "<p>Wykonujemy koloryzację permanentną, demi-permanentną, semi-permanentną:</p><p>- koloryzacja globalna&nbsp;</p><p>- koloryzacja wielotonowa</p><p>- baleyage</p><p>- flamboyage</p><p>- sombre</p><p>- sunkiss</p><p>- tonowanie</p><p>- modyfikacja koloru</p><p>- prekoloryzacja</p>",
           "_tags": [
             "Motywy"
           ],
@@ -372,7 +372,7 @@
             "paddingBottom": "3",
             "bgColor": "#000000"
           },
-          "text": "<p>Zabieg keratynowy to zdolność odbudowywania wszystkich warstw włosa w celu zapewnienia zdrowych włosów na miarę. Keratyna zawiera wyłącznie certyfikowane składniki organiczne i aminokwasy, aby odbudować, naprawić i przywrócić naturalny blask włosów.</p>",
+          "text": "<p>Zabieg keratynowy - zdolność odbudowywania wszystkich warstw włosa w celu zapewnienia zdrowych włosów na miarę. Keratyna zawiera wyłącznie certyfikowane składniki organiczne i aminokwasy, aby odbudować, naprawić i przywrócić naturalny blask włosów.</p>",
           "_tags": [
             "Motywy"
           ],
@@ -633,7 +633,7 @@
     },
     "polityka.html": {
       "settings": {
-        "meta_descr": "salon fryzjesrski, małgorzata hajduk, malgorzata hajduk, paulina hajduk, trychofryzjer, trycholog, kielce, keratyna, keratynowe prostowanie, przedłużanie włosów, zagęszczanie, pielęgnacja, studio, koloryzacja, strzyżenie, zdrowe włosy, uroda",
+        "meta_descr": "salon fryzjesrski, fryzjer kielce, małgorzata hajduk, malgorzata hajduk, paulina hajduk, trychofryzjer, trycholog, kielce, keratyna, keratynowe prostowanie, przedłużanie włosów, zagęszczanie, pielęgnacja, studio, koloryzacja, strzyżenie, zdrowe włosy, uroda",
         "title": "Polityka prywatności",
         "order": 2
       },
@@ -675,7 +675,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
               "font-size": "1rem"
@@ -687,13 +689,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#545251"
+              "background": "#4b4746"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#666362!important"
+              "background": "#5e5957!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#6e6b6a"
+              "background": "#66605e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -909,7 +911,7 @@
     },
     "page3.html": {
       "settings": {
-        "meta_descr": "salon fryzjesrski, małgorzata hajduk, malgorzata hajduk, paulina hajduk, trychofryzjer, trycholog, kielce, keratyna, keratynowe prostowanie, przedłużanie włosów, zagęszczanie, pielęgnacja, studio, koloryzacja, strzyżenie, zdrowe włosy, uroda",
+        "meta_descr": "salon fryzjesrski,fryzjer kielce,  małgorzata hajduk, malgorzata hajduk, paulina hajduk, trychofryzjer, trycholog, kielce, keratyna, keratynowe prostowanie, przedłużanie włosów, zagęszczanie, pielęgnacja, studio, koloryzacja, strzyżenie, zdrowe włosy, uroda",
         "title": "galeria zdjęcia",
         "order": 1
       },
