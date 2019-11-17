@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "hajdukhair",
-    "currentPage": "index.html",
+    "currentPage": "sklep.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -22,7 +22,8 @@
       },
       "additionalSetColors": [
         "#f40d23",
-        "#bfcecb"
+        "#bfcecb",
+        "#232323"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -35,7 +36,7 @@
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-149327719-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-149327719-1');\r\n</script>",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 35,
+    "uniqCompNum": 45,
     "versionPublish": "4.10.15",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -71,7 +72,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/p/B3UUP5QlR-5/\" target=\"_blank\">STUDIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\"><span class=\"mobi-mbri mobi-mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/p/B3UUP5QlR-5/\" target=\"_blank\">STUDIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sklep.html\"><span class=\"mobi-mbri mobi-mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
           "_tags": [
             "Motywy"
           ],
@@ -637,7 +638,7 @@
       "settings": {
         "meta_descr": "salon fryzjesrski, fryzjer kielce, małgorzata hajduk, malgorzata hajduk, paulina hajduk, trychofryzjer, trycholog, kielce, keratyna, keratynowe prostowanie, przedłużanie włosów, zagęszczanie, pielęgnacja, studio, koloryzacja, strzyżenie, zdrowe włosy, uroda",
         "title": "Polityka prywatności",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -659,7 +660,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/p/B3UUP5QlR-5/\" target=\"_blank\">STUDIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\"><span class=\"mobi-mbri mobi-mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/p/B3UUP5QlR-5/\" target=\"_blank\">STUDIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sklep.html\"><span class=\"mobi-mbri mobi-mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
           "_tags": [
             "Motywy"
           ],
@@ -777,7 +778,7 @@
       "settings": {
         "meta_descr": "salon fryzjesrski, małgorzata hajduk, malgorzata hajduk, paulina hajduk, trychofryzjer, trycholog, kielce, keratyna, keratynowe prostowanie, przedłużanie włosów, zagęszczanie, pielęgnacja, studio, koloryzacja, strzyżenie, zdrowe włosy, uroda",
         "title": "Regulamin",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -799,7 +800,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/p/B3UUP5QlR-5/\" target=\"_blank\">STUDIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\"><span class=\"mobi-mbri mobi-mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/p/B3UUP5QlR-5/\" target=\"_blank\">STUDIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sklep.html\"><span class=\"mobi-mbri mobi-mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
           "_tags": [
             "Motywy"
           ],
@@ -915,7 +916,7 @@
       "settings": {
         "meta_descr": "salon fryzjesrski,fryzjer kielce,  małgorzata hajduk, malgorzata hajduk, paulina hajduk, trychofryzjer, trycholog, kielce, keratyna, keratynowe prostowanie, przedłużanie włosów, zagęszczanie, pielęgnacja, studio, koloryzacja, strzyżenie, zdrowe włosy, uroda",
         "title": "galeria zdjęcia",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -937,7 +938,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/p/B3UUP5QlR-5/\" target=\"_blank\">STUDIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\"><span class=\"mobi-mbri mobi-mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/p/B3UUP5QlR-5/\" target=\"_blank\">STUDIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sklep.html\"><span class=\"mobi-mbri mobi-mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
           "_tags": [
             "Motywy"
           ],
@@ -1065,6 +1066,1144 @@
           ],
           "_name": "social-buttons2",
           "_anchor": "social-buttons2-16"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2517.709565637487!2d20.626040215561716!3d50.873576364667066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471827ec85917eb9%3A0xe86631d7778a2b72!2sPiotrkowska%2031%2C%2025-510%20Kielce!5e0!3m2!1spl!2spl!4v1570378177265!5m2!1spl!2spl\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\"></iframe>",
+              "placeId": "iframe",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>Adres</strong><br>Ul. Piotrkowska 31/3<br>25-510 Kielce<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Kontakt</b></span></font><br>\n<a href=\"mailto:hajdukhair@gmail.com\" class=\"text-info\">Email: hajdukhair@gmail.com</a><br>Tel, : <a href=\"tel:*48730104744\" class=\"text-info\">+48 730 104 744</a><br><br>",
+          "text2": "<p>Polska</p><p><br></p><p>Salon, fryzjer, studio, przedłużanie włosów, strzyżenie, hajdukhair, hajduk,</p><p>uroda, trychologia, trycholog, keratyna.<span style=\"font-size: 0.875rem;\">&nbsp;</span></p>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "DIV": {
+              "text-align": "left",
+              "color": "#bfcecb"
+            }
+          },
+          "_anchor": "contacts2-10"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/aminexil-225x225.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/maski-absolut-repair-225x225.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-z"
+        }
+      ]
+    },
+    "sklep.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "sklep",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#66605e",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/p/B3UUP5QlR-5/\" target=\"_blank\">STUDIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sklep.html\"><span class=\"mobi-mbri mobi-mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#4b4746"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#5e5957!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#66605e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#000000!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo%20maciek%20bia%C5%81e-120x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "mobirise-icons-bold",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true,
+              "color": "#faaf40"
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:+48730104744\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">+ 48 730 104 744</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-z"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/szampon-do-wosw-koloryzowanych-vitamino-color-225x225.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/odywka-do-wosw-koloryzowanych-vitamino-color-225x225.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "aaaaaaa",
+              "title": "bbbbbb"
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/maska-do-wosw-koloryzowanych-vitamino-color-225x225.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/spray-wielofunkcyjny-vitamino-color-225x225.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Szampon do włosów koloryzowanych<br>",
+          "subtitle1": "Serie Expert 300 ml<br>OCHRONA KOLORU WŁOSÓW\n<div>ODŻYWIENIE WŁOSÓW</div>",
+          "caption1": "<b>Opis produktu</b>\n<br>Szampon do włosów koloryzowanych Vitamino Color. Profesjonalna formuła z resweratrolem - silnym polifenolem. Chroni kolor aż do 8 tygodni* oraz włókno włosa przed uszkodzeniami. Delikatnie oczyszcza, chroni i daje uczucie miękkości na włosach. *Test instrumentalny szampon + odżywka.<br><br><b>Sposób użycia</b>\n<br>Aplikować na wilgotne włosy, spienić i dokładnie spłukać.<br><br><b>Skład produktu</b><br>AQUA / WATER / EAU • SODIUM LAURETH SULFATE • COCAMIDOPROPYL BETAINE• DIMETHICONE • SODIUM CHLORIDE • CITRIC ACID • HEXYLENE GLYCOL • SODIUM BENZOATE • SODIUMHYDROXIDE • AMODIMETHICONE • CARBOMER • GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE • TRIDECETH-10• GLYCERIN • SALICYLIC ACID • GLYCOL DISTEARATE • MICA • PEG-100 STEARATE • LINALOOL • STEARETH-6 •PHENOXYETHANOL • COCO-BETAINE • TRIDECETH-3 • CI 77891 / TITANIUM DIOXIDE • RESVERATROL • BENZYLALCOHOL • ACETIC ACID • FUMARIC ACID • PARFUM / FRAGRANCE.<b><br></b><br><br>",
+          "title2": "Odżywka do włosów koloryzowanych",
+          "subtitle2": "Serie Expert 200 ml<br>OCHRONA KOLORU WŁOSÓW\n<div>ODŻYWIENIE WŁOSÓW</div>",
+          "caption2": "<b>Opis produktu\n</b><br>Odżywka do włosów koloryzowanych Vitamino Color. Profesjonalna formuła z resweratrolem - silnym polifenolem. Chroni kolor aż do 8 tygodni* oraz włókno włosa przed uszkodzeniami. Włosy są bardziej odporne, miękkie, nawilżone i łatwiejsze do rozczesywania. *Test instrumentalny szampon + odżywka.<br><br><b>Sposób użycia\n</b><br>Aplikować na umyte i osuszone ręcznikiem włosy. Przeczesać włosy grzebieniem i spłukać.<br><br><b>Skład produktu</b><br>AQUA / WATER / EAU • CETEARYL ALCOHOL • BEHENTRIMONIUM CHLORIDE • CETYL ESTERS • AMODIMETHICONE • ISOPROPYL ALCOHOL • CITRIC ACID • TRIDECETH-6 • LINALOOL • POTASSIUM HYDROXIDE • CHLORHEXIDINE DIGLUCONATE • CETRIMONIUM CHLORIDE • RESVERATROL • BENZYL ALCOHOL • PARFUM / FRAGRANCE.<b><br></b>",
+          "title3": "Maska do włosów koloryzowanych",
+          "subtitle3": "Serie Expert 250 ml<br>OCHRONA KOLORU WŁOSÓW\n<div>BLASK WŁOSÓW</div>",
+          "caption3": "<b>Opis produktu\n</b><br>Maska do włosów koloryzowanych Vitamino Color. Profesjonalna formuła z resweratrolem - silnym polifenolem. Chroni kolor oraz włókno włosa przed uszkodzeniami. W 1 minutę włosy są odżywione, wzmocnione i bardziej miękkie.<br><b><br>Sposób użycia\n</b><br>Aplikować równomiernie na osuszone ręcznikiem włosy - długość i końce. Zostawić na 1 minutę. Spłukać dokładnie.<br><b><br></b><br><b>Skład produktu</b><br>AQUA / WATER / EAU ● HYDROXYPROPYL STARCH PHOSPHATE ● QUATERNIUM-87 ● BEHENTRIMONIUM CHLORIDE ● BEHENTRIMONIUM CHLORIDE ● PROPYLENE GLYCOL ● AMODIMETHICONE ● PHENOXYETHANOL ●ISOPROPYL ALCOHOL ●CANDELILLA CERA / CANDELILLA WAX / CIRE DE CANDELILLA ●METHYLPARABEN ●TRIDECETH-5 ●GLYCERIN ●PARFUM / FRAGRANCE ●<b><br></b>",
+          "title4": "Spray 10 w 1",
+          "subtitle4": "Serie Expert 190 ml<br>OCHRONA KOLORU WŁOSÓW\n<div>BLASK WŁOSÓW</div>",
+          "caption4": "<b>Opis produktu</b>\n<br>Spray wielofunkcyjny Vitamino Color do włosów koloryzowanych. Profesjonalna formuła z przeciwutleniaczami natychmiast chroni włosy farbowane. Ma 10 korzyści dla włosów: 1-ochrona termiczna do 230 °C* 2-połysk 3-miękkość 4-gładkość włókna włosa 5-łatwiejsze rozczesywanie 6-ułatwia suszenie 7-nawilżenie 8-ochrona przeciw łamaniu 9-ochrona przeciw rozdwajaniu się końcówek 10-ochrona przed puszeniem. Spray można stosować przed strzyżeniem, przed suszeniem lub przy wykańczaniu fryzury.<br><br><b>Sposób użycia</b>\n<br>Spryskać umyte, wilgotne lub suche włosy. Stylizować. Nie spłukiwać. W przypadku dostania się preparatu do oczu, natychmiast przepłukać je dokładnie wodą. * Test instrumentalny.<br><b><br></b><br><b>Skład produktu</b><br>AQUA / WATER / EAU • COCOS NUCIFERA OIL / COCONUT OIL • AMODIMETHICONE • POLYQUATERNIUM-37 • PHENOXYETHANOL • PROPYLENE GLYCOL DICAPRYLATE/DICAPRATE • TOCOPHEROL • SODIUM HYDROXIDE • DIMETHICONE PEG-7 PHOSPHATE • PPG-1 TRIDECETH-6 • TRIDECETH-6 • BEHENTRIMONIUM CHLORIDE • XYLOSE • LACTIC ACID • ETHYLHEXYLGLYCERIN • LINALOOL • SORBITAN OLEATE • ISOPROPYL ALCOHOL • CETRIMONIUM CHLORIDE • HYDROLYZED VEGETABLE PROTEIN PG-PROPYL SILANETRIOL • RESVERATROL • BENZYL ALCOHOL • LIMONENE • COUMARIN • POTASSIUM SORBATE • PARFUM /FRAGRANCE<b><br></b>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">50 zł</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-14",
+          "_styles": {
+            "B": {
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/szampon-volumetry-225x225.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/odywka-volumetry-225x225.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/spray-volumetry-225x225.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Szampon nadający objętość włosom cienkim<br> i delikatnym",
+          "subtitle1": "Serie Expert 300 ml<br>OCZYSZCZANIE SKÓRY GŁOWY\n<div>ODBICIE WŁOSÓW U NASADY</div>",
+          "caption1": "<b>Opis produktu</b>\n<br>Szampon Volumetry unoszący włosy u nasady, nadający objętości. Profesjonalna formuła. Wyjątkowe połączenie oczyszczającego kwasu salicowego i HydraLight, składnika znanego z właściwości nawilżających. Rezultat: włosy są uniesione u nasady.<br><br><b>Sposób użycia</b>\n<br>Aplikować na wilgotne włosy, spienić i dokładnie spłukać.<br><br><b>Skład produktu</b><br>AQUA • SODIUM LAURETH SULFATE • MIPA-LAURETH SULFATE • SODIUM CHLORIDE • COCAMIDOPROPYL BETAINE • GLYCERIN • PEG-18 CASTOR OIL DIOLEATE • PROPYLENE GLYCOL • PEG-55 PROPYLENE GLYCOL OLEATE • PERSEA GRATISSIMA OIL / AVOCADO OIL • LAURETH-5 CARBOXYLIC ACID • PPG-5-CETETH-20 • SODIUM BENZOATE • LAURETH-2 • POLYQUATERNIUM-53 • SALICYLIC ACID • LIMONENE • LINALOOL • HEXYL CINNAMAL • GERANIOL • CITRAL • BENZYL ALCOHOL • HYDROXYETHYL UREA • SODIUM HYDROXIDE • CITRIC ACID • PARFUM<b><br></b>",
+          "title2": "Odżywka nadająca objętość włosom cienkim <br>i delikatnym",
+          "subtitle2": "Serie Expert 200 ml<br>PIELĘGNACJA WŁOSÓW\n<div>ODBICIE WŁOSÓW U NASADY</div>",
+          "caption2": "<b>Opis produktu</b>\n<br>Odżywka Volumetry unosząca włosy u nasady, nadająca objętość. Profesjonalna formuła. Wyjątkowe połączenie Intra-Cylane™, wzmacniającego włókno włosa oraz HydraLight, składnika znanego z właściwości nawilżających. Rezultat: włosy są uniesione od nasady, pełne objętości.<br><br><b>Sposób użycia\n</b><br>Aplikować na umyte i osuszone ręcznikiem włosy. Przeczesać włosy grzebieniem i spłukać.<br><br><b>Skład produktu</b><br>AQUA • CETEARYL ALCOHOL • BEHENTRIMONIUM CHLORIDE • ANIMOPROPYL TRIETHOXYSILANE • STARCH ACETATE • CETYL ESTERS • ISOPROPYL ALCOHOL • LACTIC ACID • HYDROXYETHYLCELLULOSE • LIMONENE • LINALOOL • HEXYL CINNAMAL • CHLORHEXIDINE DIGLUCONATE • HYDROXYETHYL UREA • GERANIOL • PARFUM.<b><br></b>",
+          "title3": "Spray nadający objętość włosom cienkim <br>i delikatnym",
+          "subtitle3": "Serie Expert 125 ml\r<div>PIELĘGNACJA WŁOSÓW\r</div><div>ODBICIE WŁOSÓW U NASADY</div>",
+          "caption3": "<b>Opis produktu\n</b><br>Spray Volumetry podnoszący u nasady włosy cienkie i delikatne. Bez spłukiwania. Unosi włosy u nasady, nadaje teksturę. Formuła zawiera połączenie oczyszczającego kwasu salicylowego oraz Intra-Cylane™.<br><br><b>Sposób użycia\n</b><br>Stosuj na umytych i osuszonych ręcznikiem włosach. Rozpyl u nasady oraz na długości włosów, pasmo po pasmie. Nie spłukuj. Następnie wysusz włosy za pomocą suszarki bądź pozostaw do wyschnięcia.<br><br><b>Skład produktu</b><br>AQUA • ALCOHOL DENAT • AMINOPROPYL TRIETHOXYSILANE • PEG-40 HYDROGENATED CASTOR OIL • MAGNESIUM SULFATE • LACTIC ACID • PHENOXYETHANOL • PEG-14 DIMETHICONE • HYDROLYZED VEGETABLE PROTEIN PG-PROPYL SILANETRIOL • LIMONENE • ETHYLHEXYLGLYCERIN • LINALOOL • HEXYL CINNAMAL • GERANIOL • CITRAL • BENZYL ALCOHOL • HYDROXYETHYL UREA • SALICYLIC ACID • BENZYL BENZOATE • PARFUM.<br>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-13"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/szampon-blondifier-cool-183x276.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/odywka-blondifier-232x217.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/szampon-blondifier-gloss-300-ml-172x293.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/szampon-blondifier-cool-zestaw-600x600.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Szampon Blondifier Cool dla chłodnych odcieni blond",
+          "subtitle1": "Serie Expert 300 ml<br>OCZYSZCZANIE SKÓRY GŁOWY\n<div>OCHŁODZENIE BLONDU</div>",
+          "caption1": "<b>Opis produktu\n<br></b>Szampon Blondifier Cool dla chłodnych odcieni blond. Profesjonalna formuła z polifenolami zawartymi w ekstrakcie z jagód Acai. Formuła ze specjalną kompozycją fioletowych barwników, delikatnie oczyszcza włosy i neutralizuje żółte refleksy, aby nadać im perfekcyjnie chłodny odcień.<br><br><b>Sposób użycia\n</b><br>Nanieść na mokre włosy i spienić. Starannie spłukać.<br><br><b>Skład produktu</b><br>AQUA / WATER • SODIUM LAURETH SULFATE • DISODIUM COCOAMPHODIACETATE • GLYCOL DISTEARATE • GLYCERIN • CITRIC ACID • SODIUM CHLORIDE • POLYQUATERNIUM-10 • SODIUM BENZOATE • SODIUM HYDROXIDE • HEXYLENE GLYCOL • SALICYLIC ACID • CARBOMER • CI 60730 / ACID VIOLET 43 • SACCHARUM OFFICINARUM EXTRACT / SUGARCANE EXTRACT • SODIUM ACETATE • 2-OLEAMIDO-1,3-OCTADECANEDIOL • ISOPROPYL ALCOHOL • EUTERPE OLERACEA FRUIT EXTRACT • PHENOXYETHANOL • CITRUS LIMON PEEL EXTRACT / LEMON PEEL EXTRACT • PYRUS MALUS FRUIT EXTRACT / APPLE FRUIT EXTRACT • CAMELLIA SINENSIS LEAF EXTRACT • MALTODEXTRIN • PARFUM / FRAGRANCE.<b><br></b>",
+          "title2": "Odżywka Blondifier",
+          "subtitle2": "Serie Expert 200 ml<br>\n<div>ODŻYWIENIE WŁOSÓW\n</div><div>OCHRONA WŁOSÓW BLOND</div>",
+          "caption2": "<b>Opis produktu</b>\n<br>Odżywka Blondifier nadająca blask włosom blond. Profesjonalna formuła z polifenolami zawartymi w ekstrakcie z jagód Acai. Lekka formuła wzbogacona w składniki odżywcze, ceramid i pochodną witaminy E pomaga podkreślić wielowymiarowy blask włosów blond. Rezultat: włosy są natychmiast bardziej błyszczące, miękkie i łatwe do rozczesania na długości i końcach.<br><br><b>Sposób użycia\n</b><br>Po umyciu włosów szamponem Blondifier aplikuj na włosy. Przeczesz grzebieniem. Spłucz dokładnie.<br><br><b>Skład produktu</b><br>AQUA / WATER • CETEARYL ALCOHOL • BEHENTRIMONIUM CHLORIDE • CETYL ESTERS • COCOS NUCIFERA OIL / COCONUT OIL • ISOPROPYL ALCOHOL • BENZOIC ACID • PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE • BENZYL SALICYLATE • BENZYL ALCOHOL • LINALOOL • LIMONENE • SODIUM HYDROXIDE • HYDROXYCITRONELLAL • CITRONELLOL • 2-OLEAMIDO-1,3-OCTADECANEDIOL • TOCOPHEROL • ALPHA-ISOMETHYL IONONE • EUTERPE OLERACEA FRUIT EXTRACT • MALTODEXTRIN • PARFUM / FRAGRANCE.<br>",
+          "title3": "Szampon Blondifier Gloss",
+          "subtitle3": "Serie Expert 500 ml<br>OCZYSZCZANIE SKÓRY GŁOWY\n<div>OCHRONA KOLORU I BLASK</div>",
+          "caption3": "<b>Opis produktu\n</b><br>Szampon Blondifier Gloss dla wszystkich odcieni blond. Profesjonalna formuła z polifenolami zawartymi w ekstrakcie z jagód Acai. Szampon delikatnie myje włosy i podkreśla wielowymiarowy blask włosów blond. Formuła wzbogacona o ekstrakt z jagód Acai oferuje intensywne odżywienie i nadaje włosom blask.<br><br><b>Sposób użycia\n</b><br>Aplikować na wilgotne włosy, spienić i dokładnie spłukać.<br><br><b>Skład produktu</b><br>AQUA / WATER • SODIUM LAURETH SULFATE • COCO-BETAINE • SODIUM CHLORIDE • LAURETH-5 CARBOXYLIC ACID • COCAMIDE MIPA • AMODIMETHICONE • SODIUM BENZOATE • SODIUM HYDROXIDE • CITRIC ACID • HEXYLENE GLYCOL • POLYQUATERNIUM-7 • PEG-55 PROPYLENE GLYCOL OLEATE • PROPYLENE GLYCOL • PEG-60 HYDROGENATED CASTOR OIL • SALICYLIC ACID • TOCOPHERYL ACETATE • PANTHENOL • ETHYLHEXYL METHOXYCINNAMATE • LINALOOL • 2-OLEAMIDO-1,3-OCTADECANEDIOL • MAGNESIUM SULFATE • BENZYL ALCOHOL • EUTERPE OLERACEA FRUIT EXTRACT • MALTODEXTRIN • BHT • CI 19140 / YELLOW 5 • CI 14700 / RED 4 • PARFUM / FRAGRANCE.<br>",
+          "title4": "Zestaw szampon i odżywka<br>Blondifier",
+          "subtitle4": ".",
+          "caption4": ".",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-12"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/szampon-sensi-balance-225x225.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/szampon-sensi-balance-300-ml-225x225.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/szampon-density-advanced-232x217.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Szampon kojąco-ochronny",
+          "subtitle1": "Serie Expert 300 ml<br>DELIKATNA SKÓRA GŁOWY\n<div>OCZYSZCZANIE SKÓRY GŁOWY\n</div>",
+          "caption1": "<b>Opis produktu\n</b><br>Szampon Sensi Balance kojąco-ochronny. Profesjonalna formuła. Od pierwszego użycia pomaga łagodzić podrażnienia skóry głowy. Delikatnie oczyszcza. Formuła zawiera pochodną sorbitolu, składnika nawilżającego oraz witaminę PP. Skóra głowy jest chroniona, a włosy miękkie i lśniące.<br><br><b>Sposób użycia\n</b><br>Aplikować na wilgotne włosy, spienić i dokładnie spłukać.<br><br><b>Skład produktu</b><br>AQUA • SODIUM LAURETH SULFATE • PEG-200 HYDROGENATED GLYCERYL PALMATE • DISODIUM COCOAMPHODIACETATE • GLYCERIN • POLYSORBATE 20 • PEG-7 GLYCERYL COCOATE • HEXYLENE GLYCOL • DISODIUM RICINOLEAMIDO MEA-SULFOSUCCINATE • POLYSORBATE 21 • SODIUM BENZOATE • POLYQUATERNIUM-10 • SALICYLIC ACID • NIACYNAMIDE • HYDROXYPROPYLTRIMONIUM HYDROLYZED WHEAT PROTEIN • MAGNESIUM SULFATE • SODIUM ACETATE • SODIUM CHLORIDE • DIPROPYLENE GLYCOL • ASPARTIC ACID • GLYCINE • ARGININE • GLUTAMIC ACID • DECYLENE GLYCOL • ISOPROPYL ALCOHOL • PHENOXYETHANOL • METHYLISOTHIAZOLINONE • SODIUM HYDROXIDE • CITRIC ACID • PARFUM.<b><br></b>",
+          "title2": "Szampon kojąco-ochronny",
+          "subtitle2": "Serie Expert 500 ml\n<div>DELIKATNA SKÓRA GŁOWY\n</div><div>OCZYSZCZANIE SKÓRY GŁOWY</div>",
+          "caption2": "<b>Opis produktu \n<br></b>Szampon Sensi Balance kojąco-ochronny. Profesjonalna formuła. Od pierwszego użycia pomaga łagodzić podrażnienia skóry głowy. Delikatnie oczyszcza. Formuła zawiera pochodną sorbitolu, składnika nawilżającego oraz witaminę PP. Skóra głowy jest chroniona, a włosy miękkie i lśniące.\n<br>\n<br><b>Sposób użycia \n</b><br>Aplikować na wilgotne włosy, spienić i dokładnie spłukać.\n<br>\n<br><b>Skład produktu\n</b><br>AQUA • SODIUM LAURETH SULFATE • PEG-200 HYDROGENATED GLYCERYL PALMATE • DISODIUM COCOAMPHODIACETATE • GLYCERIN • POLYSORBATE 20 • PEG-7 GLYCERYL COCOATE • HEXYLENE GLYCOL • DISODIUM RICINOLEAMIDO MEA-SULFOSUCCINATE • POLYSORBATE 21 • SODIUM BENZOATE • POLYQUATERNIUM-10 • SALICYLIC ACID • NIACYNAMIDE • HYDROXYPROPYLTRIMONIUM HYDROLYZED WHEAT PROTEIN • MAGNESIUM SULFATE • SODIUM ACETATE • SODIUM CHLORIDE • DIPROPYLENE GLYCOL • ASPARTIC ACID • GLYCINE • ARGININE • GLUTAMIC ACID • DECYLENE GLYCOL • ISOPROPYL ALCOHOL • PHENOXYETHANOL • METHYLISOTHIAZOLINONE • SODIUM HYDROXIDE • CITRIC ACID • PARFUM.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-11"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/szampon-density-advanced-232x217.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/aminexil-225x225.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Szampon zagęszczający do włosów przerzedzonych",
+          "subtitle1": "Serie Expert 300 ml<br>WYPADANIE WŁOSÓW\r<div>ZAGĘSZCZENIE WŁOSÓW</div>",
+          "caption1": "<b>Opis produktu</b>\n<br>Szampon Density Advanced zagęszczający włosy. Profesjonalna formuła wzbogacona w witaminę PP, B6 i pochodną kwasów omega-6 pomaga odżywić cebulki włosów*, dodaje włosom witalności oraz daje poczucie widocznej gęstości. To idealne uzupełnienie kuracji przeciw wypadaniu włosów Aminexil Advanced.\n<br>\n<br>* Test in vitro.<br><br><b>Sposób użycia</b>\n<br>Aplikować na wilgotne włosy, spienić i dokładnie spłukać.<br><br><b>Skład produktu</b><br>AQUA / WATER • SODIUM LAURETH SULFATE • COCAMIDE MEA • COCO-BETAINE • SODIUM CHLORIDE • HEXYLENE GLYCOL • ISOSTEARYL NEOPENTANOATE • CETEARETH-60 MYRISTYL GLYCOL • SODIUM BENZOATE • POLYQUATERNUM-10 • SALICYLIC ACID • NIACYNAMIDE • PYRIDOXINE HCI • LINALOOL • COUMARIN • LIMONENE • SAFFLOWER GLUCOSIDE • ALPHA-ISOMETHYL IONONE • SODIUM ACETATE • ISOPROPYL ALCOHOL • TOCOPHEROL • BHT • SODIUM CITRATE • HYDROXIDE • CITRIC ACID • PARFUM / FRAGRANCE<b><br></b>",
+          "title2": "Program do walki z wypadaniem włosów o podwójnym działaniu",
+          "subtitle2": "Serie Expert 6ml x 10 szt ml<br>WYPADANIE WŁOSÓW\n<div>KURACJA NA WŁOSY</div>",
+          "caption2": "<b>Opis produktu\n</b><br>Program walki z wypadaniem włosów o podwójnym działaniu. Składniki aktywne: Aminexil® + kompleks odżywczy omega-6*. Połączenie dwóch składników aktywnych o skuteczności potwierdzonej naukowo: Aminexil® wspomaga przytwierdzenie włókna włosa w skórze głowy.\n<br>Aminexil® - opracowana przez Dział Badań Naukowych L’Oréal cząsteczka aktywna działa wokół mieszka włosowego, aby przeciwdziałać procesowi usztywniania kolagenu (testy in vitro), który gromadząc się wokół mieszka włosowego, uniemożliwia prawidłowe przytwierdzenie włosa. W efekcie składnik ten wspomaga przytwierdzenie włókna włosa w skórze głowy. Rezultat: pomaga zmniejszyć stopień wypadania włosów. Skuteczność Aminexil® w walce z wypadaniem włosów została potwierdzona w badaniach klinicznych w porównaniu z placebo, przeprowadzonych na grupie 130 osób dotkniętych łysieniem, po 6 tygodniach stosowania preparatu. Unikalny kompleks odżywczy omega-6* pomaga odżywić włókno włosa. Aby móc się rozwijać, każda komórka organizmu potrzebuje podstawowych składników odżywczych. Kompleks odżywczy omega-6* zawiera niezbędne dla odżywienia składniki. Masaż aplikatorem roll-on pomaga pobudzić mikrokrążenie. Ułatwia aplikację preparatu.\n<br>\n<br>* Pochodna.<br><br><b>Sposób użycia</b>\n<br>Program stosowania:\n<br>KURACJA INTENSYWNA: 1 doza dziennie przez 6 kolejnych tygodni. Kurację należy przeprowadzać 2 razy w roku w okresach nasilonego wypadania włosów związanego ze zmianami pór roku (wiosna, jesień) jako program trwający 6 tygodni.\n<br>Stosować całą ampułkę na włosy umyte i wysuszone lub osuszone ręcznikiem.\n<br>Nałóż aplikator roll-on na ampułkę Aminexil®. Całość dawki nałóż pasmo po pasmie bezpośrednio na skórę głowy. Aby pobudzić mikrokrążenie, masuj skórę głowy opuszkami szeroko rozstawionych palców, ruchem okrężnym. Nie spłukuj. Dokładnie wypłucz aplikator roll-on po każdym użyciu.<br><br><b>Skład produktu</b><br>AQUA/WATER • ALCOHOL DENAT. • DIAMINOPYRIMIDINE OXIDE • PEG-40 HYDROGENATED CASTOR OIL • CALCIUM PANTHENATE • SAFFLOWER GLUCOSIDE • PYRIDOXINE HCL • NIACINAMIDE • PARFUM/FRAGRANCE.<br>",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-15"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/oczyszczajcy-i-zagszczajcy-szampon-serioxyl-225x225.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pogrubiajca-i-uatwiajca-rozczesywanie-odywka-serioxyl-225x225.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/serioxyl-denser-hair-224x225.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/spray-nadajcy-objto-wosom-przerzedzonym-225x225.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Szampon do włosów przerzedzonych",
+          "subtitle1": "Serioxyl 250 ml<br>WYPADANIE WŁOSÓW\n<div>ZAGĘSZCZENIE WŁOSÓW</div>",
+          "caption1": "<b>Opis produktu\n</b><br>Oczyszczający i zagęszczający* szampon Serioxyl do włosów przerzedzonych. Hipoalergiczna formuła odpowiednia dla wrażliwej skóry głowy. Oczyszcza skórę głowy i wzmacnia włosy.\n<br>\n<br>*Test instrumentalny (szampon Serioxyl + odżywka).<br><br><b>Sposób użycia\n</b><br>Aplikować równomiernie na wilgotne włosy i skórę głowy. Delikatny masaż spieni szampon i będzie stymulował mikrokrążenie skóry głowy. Spłukać.<br><br><b>Skład produktu</b><br>AQUA / WATER​ • AMMONIUM LAURYL SULFATE​ • FRAGRANCE​ • HEXYLENE GLYCOL​ • CITRIC ACID​ • SODIUM HYDROXIDE​ • SODIUM BENZOATE​ • HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE​ • ALCOHOL DENAT.​ • POLYQUATERNIUM-30​ •\n<br>SALICYLIC ACID​ • MENTHOL​ • BENZOIC ACID​ • MAGNESIUM SULFATE​ • POLYSORBATE 21​ • CI 42090 / BLUE 1.<br>",
+          "title2": "Odżywka do włosów cienkich<br> i przerzedzonych",
+          "subtitle2": "Serioxyl 150 ml<br>WYPADANIE WŁOSÓW\n<div>ZAGĘSZCZENIE WŁOSÓW\n</div><div><br></div>",
+          "caption2": "<b>Opis produktu</b>\n<br>Pogrubiająca i ułatwiająca rozczesywanie odżywka Serioxyl do włosów przerzedzonych. Hipoalergiczna formuła odpowiednia dla wrażliwej skóry głowy. Bez efektu obciążenia odżywka Serioxyl pielęgnuje i ułatwia rozczesywanie włókna włosa. Jednocześnie pogrubia wygląd włosów, zapewniając natychmiastowy efekt zagęszczenia*.\n<br>\n<br>* Test instrumentalny (szampon Serioxyl + odżywka)<br><br><b>Sposób użycia</b>\n<br>Aplikować równomiernie na umyte szamponem Serioxyl włosy. Pozostawić na 1–3 minuty. Spłukać.<br><br><b>Skład produktu</b><br>AQUA / WATER • CETYL ALCOHOL • PEG-180 • PARFUM / FRAGRANCE • CETRIMONIUM CHLORIDE • MYRISTYL ALCOHOL • LAURYL PEG/PPG-18/18 METHICONE • ISOPROPYL MYRISTATE • CETYL ESTERS • HYDROXYETHYLCELLULOSE • MENTHOL • BENZOIC ACID • ELAEIS\n<br>GUINEENSIS OIL / PALM OIL • ISOSTEARYL ALCOHOL • POLYSORBATE 21 • DILAURYL THIODIPROPIONATE • SODIUM HYDROXIDE • CITRIC ACID • MAGNESIUM SULFATE • CI 42090 / BLUE 1.<br>",
+          "title3": "Serum do włosów przerzedzonych",
+          "subtitle3": "Serioxyl 90 ml<br>WYPADANIE WŁOSÓW\n<div>ZAGĘSZCZENIE WŁOSÓW</div>",
+          "caption3": "<b>Opis produktu</b>\n<br>Serioxyl Denser Hair. Jest rozwiązaniem dla skóry głowy, które mnoży masę włosów dla efektu gęstszych włosów dzień po dniu*.\n<br>Nowa formuła ujawnia +1000 włosów w zaledwie 6 tygodni*. Po 3 miesiącach dostrzegalne +1600 włosów**.\n<br>Stemoksydyna 5%: cząsteczka przywracająca gęstość włosom - efekt dziesięcioletnich badań. Optymalna koncentracja działa na skórę głowy i przyczynia się do ujawnienia się +1000 włosów w ciągu 6 tygodni.\n<br>Resveratrol: silny polifenol pozyskiwany z antyoksydantów stosowanych w pielęgnacji skóry.\n<br>Odpowiedni do wrażliwej skóry głowy. Zawiera specjalnie zaprojektowany aplikator dla wygodniejszego stosowania.\n<br>\n<br>* Badanie kliniczne, 79 kobiet przez 6 tygodni.\n<br>** Badanie kliniczne, 79 kobiet przez 3 miesiące.<br><br><b>Sposób użycia</b>\n<br>Wieczorem aplikować 4 pipetki na suchą lub osuszoną ręcznikiem skórę głowy. Podzielić włosy na 4 obszary. Wzdłuż linii pierwszego przedziałka rozdzielającego obszary nałożyć produkt pipetką stopniowo i równomiernie. Wmasować produkt we włosy pierwszego obszaru. Powtórzyć czynności na pozostałych obszarach. Nie spłukiwać. Pozostawić do wyschnięcia.<br><br><b>Skład produktu</b><br>ALCOHOL DENAT.​ • AQUA / WATER​ • DIETHYLLUTIDINATE​ • RESVERATROL​ • ETHYL ESTER OF PVM/MA COPOLYMER​ • LINALOOL​ • GERANIOL​ • CITRONELLOL​ • BENZYL SALICYLATE​ • BENZYL ALCOHOL​ • LIMONENE​ • PARFUM / FRAGRANCE.<br><br>",
+          "title4": "Spray nadający objętość włosom przerzedzonym",
+          "subtitle4": "Serioxyl 200 ml<br>ZAGĘSZCZENIE WŁOSÓW\r<div>TUSZOWANIE ŁYSIENIA</div>",
+          "caption4": "<b>Opis produktu\n</b><br>Hipoalergiczny spray z kolorem nadający objętość włosom przerzedzonym. Formuła odpowiednia dla wrażliwej skóry głowy. Tuszuje przerzedzone obszary skóry głowy. Jednocześnie zwiększa objętość i nadaje włosom naturalny wygląd, aby uzyskać natychmiastowy efekt zagęszczenia.<br><br><b>Sposób użycia\n</b><br>Dobrze wstrząsnąć przed użyciem. Aplikować u nasady na suchą skórę głowy z odległości 15 cm. Pozostawić na ok. 1 minutę, a następnie stylizować jak zwykle.<br><br><b>Skład produktu</b><br>BUTANE • DIMETHYL ETHER • ALCOHOL DENAT. • CALCIUM CARBONATE • POLYVINYLCAPROLACTAM • CI 77491, CI 77492, CI 77499 / IRON OXIDES • DIMETHICONE • DISTEARDIMONIUM HECTORITE • DIMETHICONOL • CI 77891 / TITANIUM DIOXIDE • TRIETHOXYCAPRYLYLSILANE • AQUA / WATER • PARFUM / FRAGRANCE.<br>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-16"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/infinium-pure-soft-600x600.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/infinium-pure-soft-600x600.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/loreal-infinium-pure-extra-strong-600x600.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "\r<div><br></div><div>LAKIER\r</div><div>Infinium Pure Soft</div>",
+          "subtitle1": "<div>Infinium 500 ml</div><div>STYLIZACJA WŁOSÓW\n</div><div>UTRWALENIE WŁOSÓW</div>",
+          "caption1": "<b>Opis produktu\n</b><br>Profesjonalny lakier  do włosów, uwielbiany przez konsumentki, fryzjerów i stylistów fryzur na pokazach mody. Bezzapachowa, oczyszczona ze zbędnych składników formuła odpowiednia do wszystkich rodzajów stylizacji: tapirowania, gniecenia, nadania objętości włosom i ich wykończenia. Profesjonalny dyfuzor zapewnia optymalny komfort użytkowania. Natychmiastowe utrwalenie na wiele godzin, niezależnie od warunków atmosferycznych, bez efektu sztywności i sztuczności. Suchy, nie pozostawia osadu na włosach, daje super połysk.\n<br>\n<br>MOC: soft - elastyczne utrwalenie&nbsp;<br><b><br>Sposób użycia\n</b><br>Stosuj na suche włosy, by wykończyć i utrwalić fryzurę. Spryskaj z odległości 35 cm. Dla podkreślenia pojedynczych pasemek możesz spryskać z bliższej odległości. Voilà!<br><br><b>Skład produktu</b><br>DIMETHYL ETHER • ALCOHOL DENAT • VA/CROTONATES/VINYL NEODECANOATE COPOLYMER • AMINOMETHYL PROPANOL<br>",
+          "title2": "LAKIER\r<div>Infinium Pure Strong</div>",
+          "subtitle2": "Infinium 500 ml\n<div>STYLIZACJA WŁOSÓW\n</div><div>UTRWALENIE WŁOSÓW</div>",
+          "caption2": "<b>Opis produktu\n</b><br>Profesjonalny lakier  do włosów, uwielbiany przez konsumentki, fryzjerów i stylistów fryzur na pokazach mody. Bezzapachowa, oczyszczona ze zbędnych składników formuła odpowiednia do wszystkich rodzajów stylizacji: tapirowania, gniecenia, nadania objętości włosom i ich wykończenia. Profesjonalny dyfuzor zapewnia optymalny komfort użytkowania. Natychmiastowe utrwalenie na wiele godzin, niezależnie od warunków atmosferycznych, bez efektu sztywności i sztuczności. Suchy, nie pozostawia osadu na włosach, daje super połysk.\n<br>\n<br>MOC: strong - mocne utrwalenie&nbsp;<br><br><b>Sposób użycia\n</b><br>Stosuj na suche włosy, by wykończyć i utrwalić fryzurę. Spryskaj z odległości 35 cm. Dla podkreślenia pojedynczych pasemek możesz spryskać z bliższej odległości. Voilà!<br><br><b>Skład produktu</b><br>DIMETHYL ETHER • ALCOHOL DENAT • VA/CROTONATES/VINYL NEODECANOATE COPOLYMER • AMINOMETHYL PROPANOL<br>",
+          "title3": "LAKIER\r<div>Infinium Pure Extra Strong</div>",
+          "subtitle3": "Infinium 500 ml\n<div>STYLIZACJA WŁOSÓW\n</div><div>UTRWALENIE WŁOSÓW</div>",
+          "caption3": "<b>Opis produktu\n</b><br>Profesjonalny lakier  do włosów, uwielbiany przez konsumentki, fryzjerów i stylistów fryzur na pokazach mody. Bezzapachowa, oczyszczona ze zbędnych składników formuła odpowiednia do wszystkich rodzajów stylizacji: tapirowania, gniecenia, nadania objętości włosom i ich wykończenia. Profesjonalny dyfuzor zapewnia optymalny komfort użytkowania. Natychmiastowe utrwalenie na wiele godzin, niezależnie od warunków atmosferycznych, bez efektu sztywności i sztuczności. Suchy, nie pozostawia osadu na włosach, daje super połysk.\n<br>\n<br>MOC: extra strong - supermocne utrwalenie&nbsp;<br><br><b>Sposób użycia\n</b><br>Stosuj na suche włosy, by wykończyć i utrwalić fryzurę. Spryskaj z odległości 35 cm. Dla podkreślenia pojedynczych pasemek możesz spryskać z bliższej odległości. Voilà!<br><br><b>Skład produktu</b><br>DIMETHYL ETHER • ALCOHOL DENAT. • VA/CROTONATES/VINYL NEODECANOATE COPOLYMER • AQUA/WATER • OCTYLACRYLAMIDE/ACRYLATES/BUTYLAMINOETHYL • METHACRYLATE COPOLYMER • AMINOMETHYL PROPANOL<br>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-17"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/volume-lift-225x225.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/savage-panache-225x225.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/fix-anti-frizz-225x225.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "PIANKA\n<div>Volume Lift</div>",
+          "subtitle1": "Tecni.ART. 250 ml<br>OBJĘTOŚĆ WŁOSÓW\n<div>UTRWALENIE WŁOSÓW</div>",
+          "caption1": "<b>Opis produktu\n</b><br>Bestseller wśród produktów do zwiększania objętości włosów. Volume Lift nada gęstość i uniesie nawet najcieńsze i najdelikatniejsze pasma. Kilka ruchów wystarczy, by proste i przyklapnięte kosmyki zyskały objętość i zachwycającą gęstość! Pianka w sprayu idealna do każdego rodzaju włosów, a w szczególności do cienkich, delikatnych i niepodatnych na układanie.&nbsp;<br><br><b>Sposób użycia\n</b><br>Aplikuj piankę bezpośrednio u nasady, na wilgotne lub suche włosy.<br><br><b>Skład produktu</b><br>AQUA / WATER • DIMETHYL ETHER • ALCOHOL DENAT. • ISOBUTANE •POLYQUATERNIUM-11 • BUTYL ESTER OF PVM/MA COPOLYMER • TRIETHANOLAMINE • AMODIMETHICONE •POLYQUATERNIUM-4 • POLYSORBATE 20 • HYDROXYPROPYL GUAR • CETRIMONIUM CHLORIDE • TRIDECETH-15 •TRIDECETH-3 • LINALOOL • BENZYL SALICYLATE • BENZYL BENZOATE • BENZYL ALCOHOL • PHENOXYETHANOL •CITRONELLOL • LIMONENE • ACETIC ACID • PARFUM / FRAGRANCE.<br>",
+          "title2": "PUDER\n<div>Savage Panache</div>",
+          "subtitle2": "Tecni.ART. 250 ml\n<div>OBJĘTOŚĆ WŁOSÓW\n</div><div>STYLIZACJA WŁOSÓW</div>",
+          "caption2": "<b>Opis produktu\n</b><br>Teksturyzujący puder w sprayu, który nada Twoim włosom objętość. Suchy w dotyku. Pozwól swojej stylizacji pozostać w ruchu, flirtuj z objętością à la lata 60. Potrójny dyfuzor w zaledwie kilka chwil nada włosom objętość 3D. Świetnie utrwala krótkie grzywki, także męskie.<br><br><b>Sposób użycia\n</b><br>Wstrząśnij przed użyciem i pomiędzy aplikacjami. Aplikuj równomiernie na suche włosy w miejsca, którym chcesz nadać objętość i teksturę.<br><br><b>Skład produktu</b><br>BUTANE • ALCOHOL DENAT. • CALCIUM CARBONATE • POLYVINYLCAPROLACTAM •DISTEARDIMONIUM HECTORITE • DIMETHICONE • DIMETHICONOL • AQUA / WATER • LINALOOL • LIMONENE •BENZYL SALICYLATE • BENZYL ALCOHOL • HEXYL CINNAMAL • CITRAL • PARFUM / FRAGRANCE.<br>",
+          "title3": "SPRAY\n<div>Fix Anti-Frizz</div>",
+          "subtitle3": "Tecni.ART. 400 ml<br>STYLIZACJA WŁOSÓW\n<div>UTRWALENIE WŁOSÓW</div>",
+          "caption3": "<b>Opis produktu\n</b><br>Spray mocno utrwalający, chroniący włosy przed puszeniem się pod wpływem wilgoci. Zapewnia ochronę przed puszeniem się włosów oraz zapobiega elektryzowaniu się włosów przez 24 h. Szybkoschnący.<br><br><b>Sposób użycia</b>\n<br>Spryskaj suche lub wilgotne włosy z odległości 35 cm. Dla większej objętości aplikuj także u nasady<br><b><br>Skład produktu</b><br>INGREDIENTS: ALCOHOL DENAT. • DIMETHYL ETHER •ACRYLATES/t-BUTYLACRYLAMIDE COPOLYMER • AMINOMETHYL PROPANOL • PPG-3METHYL ETHER • ETHYLHEXYL METHOXYCINNAMATE •PEG/PPG-17/18 DIMETHICONE • LINALOOL • LIMONENE• BUTYLPHENYL METHYLPROPIONAL • HEXYLCINNAMAL • HYDROXYCITRONELLAL • BENZYLSALICYLATE • CITRAL • PARFUM / FRAGRANCE.<br>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-18"
         },
         {
           "_params": {
