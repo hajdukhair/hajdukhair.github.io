@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "hajdukhair",
-    "currentPage": "sklep.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -22,8 +22,7 @@
       },
       "additionalSetColors": [
         "#f40d23",
-        "#bfcecb",
-        "#232323"
+        "#bfcecb"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -36,7 +35,7 @@
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-149327719-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-149327719-1');\r\n</script>",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 45,
+    "uniqCompNum": 35,
     "versionPublish": "4.10.15",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -484,7 +483,7 @@
             {
               "authorName": "John Smith",
               "authorBio": "Developer",
-              "text": "<p>Koloryzacja ( w tym mycie, strzyżenie i stylizacja )</p><p>globalna &nbsp; 230 -250 zł</p><p>wielotonowa &nbsp; 250 - 400 zł</p><p>refleksy po koronie &nbsp; 200 - 250 zł</p><p>dekoloryzacja globalna odrost &nbsp; 200 - 300 zł</p><p>baleyage &nbsp; 250 - 350 zł</p><p>tonowanie ( po zabiegu rozjaśniania ) &nbsp; + 100 zł</p><p>modyfikacja koloru - cena ustalana indywidualnie&nbsp;</p><p>prekoloryzacja &nbsp; 50 - 150 zł</p><p>cover - dla mężczyzn ( cena nie dotyczy strzyżenia ) &nbsp; 100 zł</p>",
+              "text": "<p>Koloryzacja ( w tym mycie, stylizacja )</p><p>strzyżenie przy zabiegu koloryzacji &nbsp;50 % ceny strzyżenia</p><p>globalna &nbsp; 230 -280 zł</p><p>wielotonowa &nbsp; 280 - 400 zł</p><p>refleksy po koronie &nbsp; 200 - 250 zł</p><p>dekoloryzacja globalna odrost &nbsp; 200 - 300 zł</p><p>baleyage &nbsp; 250 - 380 zł</p><p>tonowanie ( po zabiegu rozjaśniania ) &nbsp; + 100 zł</p><p>modyfikacja koloru - cena ustalana indywidualnie&nbsp;</p><p>prekoloryzacja &nbsp; 50 - 150 zł</p><p>cover - dla mężczyzn ( cena nie dotyczy strzyżenia ) &nbsp; 100 zł</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -498,7 +497,7 @@
             {
               "authorName": "John Smith",
               "authorBio": "Developer",
-              "text": "<p>Stylizacja :</p><p>modelowanie &nbsp; 50 -90 zł</p><p>prostowanie &nbsp; 60 - 100 zł</p><p>wieczorowa &nbsp; 150 - 250 zł</p><p>ślubna &nbsp; 250 - 350 zł</p>",
+              "text": "<p>Stylizacja :</p><p>modelowanie &nbsp; 60 -100 zł</p><p>prostowanie &nbsp; 80 - 120 zł</p><p>wieczorowa &nbsp; 180 - 280 zł</p><p>ślubna &nbsp; 280 - 400 zł</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -540,7 +539,7 @@
             {
               "authorName": "John Smith",
               "authorBio": "Developer",
-              "text": "<p>Przedłużanie / zagęszczanie :</p><p>1 gram włosów z założeniem &nbsp; 13 - 18 zł</p><p>korekta ( podciąganie pasemka ) &nbsp; 10 zł</p><p>zdjęcie włosów &nbsp; 100 zł / godzina</p><p>metoda kanapkowa - cena uzależniona od ilości kanapek</p><p>1 kanapka z założeniem &nbsp; 80 - 100 zł</p><p>korekta ( podciągnięcie taśmy ) &nbsp; 10 zł &nbsp;/ &nbsp;kanapka &nbsp; 20 zł</p><p>zdjęcie kanapek &nbsp; 60 - 100 zł</p>",
+              "text": "<p>Przedłużanie / zagęszczanie :</p><p>1 gram włosów z założeniem &nbsp; 15 - 20 zł</p><p>korekta ( podciąganie pasemka ) &nbsp; 10 zł</p><p>zdjęcie włosów &nbsp; 100 zł / godzina</p><p>metoda kanapkowa - cena uzależniona od ilości kanapek</p><p>1 kanapka z założeniem &nbsp; 80 - 100 zł</p><p>korekta ( podciągnięcie taśmy ) &nbsp; 10 zł &nbsp;/ &nbsp;kanapka &nbsp; 20 zł</p><p>zdjęcie kanapek &nbsp; 60 - 100 zł</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
