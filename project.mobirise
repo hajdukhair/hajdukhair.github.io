@@ -469,7 +469,7 @@
             {
               "authorName": "John Smith",
               "authorBio": "Developer",
-              "text": "<p>Strzyżenie męskie ( w tym mycie oraz stylizacja ) &nbsp; 50 - 70 zł</p><p>Trymowanie wąsów i brody &nbsp; 30 zł</p><p>Cover (tuszowanie siwych włosów) &nbsp; 100 zł</p>",
+              "text": "<p>Strzyżenie męskie ( w tym mycie oraz stylizacja ) &nbsp; 60 - 90 zł</p><p>Trymowanie wąsów i brody &nbsp; 30 zł</p><p>Cover (tuszowanie siwych włosów) &nbsp; 100 zł</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
