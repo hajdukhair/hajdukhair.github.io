@@ -483,7 +483,7 @@
             {
               "authorName": "John Smith",
               "authorBio": "Developer",
-              "text": "<p>Koloryzacja ( w tym mycie, stylizacja )</p><p>strzyżenie przy zabiegu koloryzacji &nbsp;50 % ceny strzyżenia</p><p>globalna &nbsp; 230 -280 zł</p><p>wielotonowa &nbsp; 280 - 400 zł</p><p>refleksy po koronie &nbsp; 200 - 250 zł</p><p>dekoloryzacja globalna odrost &nbsp; 200 - 300 zł</p><p>baleyage &nbsp; 250 - 380 zł</p><p>tonowanie ( po zabiegu rozjaśniania ) &nbsp; + 100 zł</p><p>modyfikacja koloru - cena ustalana indywidualnie&nbsp;</p><p>prekoloryzacja &nbsp; 50 - 150 zł</p><p>cover - dla mężczyzn ( cena nie dotyczy strzyżenia ) &nbsp; 100 zł</p>",
+              "text": "<p>Koloryzacja ( w tym mycie, stylizacja )</p><p>strzyżenie przy zabiegu koloryzacji &nbsp;50 % ceny strzyżenia</p><p>globalna &nbsp; 230 -280 zł</p><p>wielotonowa &nbsp; 280 - 400 zł</p><p>refleksy po koronie &nbsp; 200 - 250 zł</p><p>dekoloryzacja globalna odrost &nbsp; 200 - 300 zł</p><p>balayage &nbsp; 250 - 380 zł</p><p>tonowanie ( po zabiegu rozjaśniania ) &nbsp; + 100 zł</p><p>modyfikacja koloru - cena ustalana indywidualnie&nbsp;</p><p>prekoloryzacja &nbsp; 50 - 150 zł</p><p>cover - dla mężczyzn ( cena nie dotyczy strzyżenia ) &nbsp; 100 zł</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
