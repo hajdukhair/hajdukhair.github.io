@@ -71,7 +71,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/p/B3UUP5QlR-5/\" target=\"_blank\">STUDIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sklep.html\"><span class=\"mobi-mbri mobi-mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">SZKOLENIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#testimonials2-s\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CENNIK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials2-s\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials2-s\" aria-expanded=\"false\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials2-s\" aria-expanded=\"false\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/p/B3UUP5QlR-5/\" target=\"_blank\">STUDIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sklep.html\">SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
           "_tags": [
             "Motywy"
           ],
@@ -144,7 +144,7 @@
               "color": "#faaf40"
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:+48730104744\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">+ 48 730 104 744</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:+48730104744\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">+ 48 791 772 179</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-3"
         },
@@ -614,7 +614,7 @@
               "state": "ok"
             }
           },
-          "text1": "<strong>Adres</strong><br>Ul. Piotrkowska 31/3<br>25-510 Kielce<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Kontakt</b></span></font><br>\n<a href=\"mailto:hajdukhair@gmail.com\" class=\"text-info\">Email: hajdukhair@gmail.com</a><br>Tel, : <a href=\"tel:*48730104744\" class=\"text-info\">+48 730 104 744</a><br><br>",
+          "text1": "<strong>Adres</strong><br>Ul. Piotrkowska 31/3<br>25-510 Kielce<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Kontakt</b></span></font><br>\n<a href=\"mailto:hajdukhair@gmail.com\" class=\"text-info\">Email: hajdukhair@gmail.com</a><br>Tel, : <a href=\"tel:*48730104744\" class=\"text-info\">+48&nbsp;</a>791 772 179<br><br>",
           "text2": "<p>Polska</p><p><br></p><p>Salon, fryzjer, studio, przedłużanie włosów, strzyżenie, hajdukhair, hajduk,</p><p>uroda, trychologia, trycholog, keratyna.<span style=\"font-size: 0.875rem;\">&nbsp;</span></p>",
           "_tags": [
             "Motywy"
@@ -637,7 +637,7 @@
       "settings": {
         "meta_descr": "salon fryzjesrski, fryzjer kielce, małgorzata hajduk, malgorzata hajduk, paulina hajduk, trychofryzjer, trycholog, kielce, keratyna, keratynowe prostowanie, przedłużanie włosów, zagęszczanie, pielęgnacja, studio, koloryzacja, strzyżenie, zdrowe włosy, uroda",
         "title": "Polityka prywatności",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -659,7 +659,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/p/B3UUP5QlR-5/\" target=\"_blank\">STUDIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sklep.html\"><span class=\"mobi-mbri mobi-mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">SZKOLENIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#testimonials2-s\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CENNIK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials2-s\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials2-s\" aria-expanded=\"false\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials2-s\" aria-expanded=\"false\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/p/B3UUP5QlR-5/\" target=\"_blank\">STUDIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sklep.html\">SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
           "_tags": [
             "Motywy"
           ],
@@ -732,7 +732,7 @@
               "color": "#faaf40"
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:+48730104744\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">+ 48 730 104 744</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:+48730104744\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">+ 48 791 772 179</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-x"
         },
@@ -754,7 +754,7 @@
               "state": "ok"
             }
           },
-          "text1": "<strong>Adres</strong><br>Ul. Piotrkowska 31/3<br>25-510 Kielce<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Kontakt</b></span></font><br>\n<a href=\"mailto:hajdukhair@gmail.com\" class=\"text-info\">Email: hajdukhair@gmail.com</a><br>Tel, : <a href=\"tel:*48730104744\" class=\"text-info\">+48 730 104 744</a><br><br>",
+          "text1": "<strong>Adres</strong><br>Ul. Piotrkowska 31/3<br>25-510 Kielce<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Kontakt</b></span></font><br>\n<a href=\"mailto:hajdukhair@gmail.com\" class=\"text-info\">Email: hajdukhair@gmail.com</a><br>Tel, : <a href=\"tel:*48730104744\" class=\"text-info\">+48&nbsp;</a>791 772 179<br><br>",
           "text2": "<p>Polska</p><p><br></p><p>Salon, fryzjer, studio, przedłużanie włosów, strzyżenie, hajdukhair, hajduk,</p><p>uroda, trychologia, trycholog, keratyna.<span style=\"font-size: 0.875rem;\">&nbsp;</span></p>",
           "_tags": [
             "Motywy"
@@ -777,7 +777,7 @@
       "settings": {
         "meta_descr": "salon fryzjesrski, małgorzata hajduk, malgorzata hajduk, paulina hajduk, trychofryzjer, trycholog, kielce, keratyna, keratynowe prostowanie, przedłużanie włosów, zagęszczanie, pielęgnacja, studio, koloryzacja, strzyżenie, zdrowe włosy, uroda",
         "title": "Regulamin",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -799,7 +799,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/p/B3UUP5QlR-5/\" target=\"_blank\">STUDIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sklep.html\"><span class=\"mobi-mbri mobi-mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">SZKOLENIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#testimonials2-s\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CENNIK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials2-s\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials2-s\" aria-expanded=\"false\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials2-s\" aria-expanded=\"false\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/p/B3UUP5QlR-5/\" target=\"_blank\">STUDIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sklep.html\">SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
           "_tags": [
             "Motywy"
           ],
@@ -870,7 +870,7 @@
               "color": "#faaf40"
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:+48730104744\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">+ 48 730 104 744</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:+48730104744\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">+ 48 791 772 179</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-v"
         },
@@ -892,7 +892,7 @@
               "state": "ok"
             }
           },
-          "text1": "<strong>Adres</strong><br>Ul. Piotrkowska 31/3<br>25-510 Kielce<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Kontakt</b></span></font><br>\n<a href=\"mailto:hajdukhair@gmail.com\" class=\"text-info\">Email: hajdukhair@gmail.com</a><br>Tel, : <a href=\"tel:*48730104744\" class=\"text-info\">+48 730 104 744</a><br><br>",
+          "text1": "<strong>Adres</strong><br>Ul. Piotrkowska 31/3<br>25-510 Kielce<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Kontakt</b></span></font><br>\n<a href=\"mailto:hajdukhair@gmail.com\" class=\"text-info\">Email: hajdukhair@gmail.com</a><br>Tel, : <a href=\"tel:*48730104744\" class=\"text-info\">+48&nbsp;</a>791 772 179<br><br>",
           "text2": "<p>Polska</p><p><br></p><p>Salon, fryzjer, studio, przedłużanie włosów, strzyżenie, hajdukhair, hajduk,</p><p>uroda, trychologia, trycholog, keratyna.<span style=\"font-size: 0.875rem;\">&nbsp;</span></p>",
           "_tags": [
             "Motywy"
@@ -915,7 +915,7 @@
       "settings": {
         "meta_descr": "salon fryzjesrski,fryzjer kielce,  małgorzata hajduk, malgorzata hajduk, paulina hajduk, trychofryzjer, trycholog, kielce, keratyna, keratynowe prostowanie, przedłużanie włosów, zagęszczanie, pielęgnacja, studio, koloryzacja, strzyżenie, zdrowe włosy, uroda",
         "title": "galeria zdjęcia",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -937,7 +937,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/p/B3UUP5QlR-5/\" target=\"_blank\">STUDIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sklep.html\"><span class=\"mobi-mbri mobi-mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">SZKOLENIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#testimonials2-s\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CENNIK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials2-s\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials2-s\" aria-expanded=\"false\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials2-s\" aria-expanded=\"false\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/p/B3UUP5QlR-5/\" target=\"_blank\">STUDIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sklep.html\">SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
           "_tags": [
             "Motywy"
           ],
@@ -1010,7 +1010,7 @@
               "color": "#faaf40"
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:+48730104744\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">+ 48 730 104 744</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:+48730104744\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">+ 48 791 772 179</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-z"
         },
@@ -1084,7 +1084,7 @@
               "state": "ok"
             }
           },
-          "text1": "<strong>Adres</strong><br>Ul. Piotrkowska 31/3<br>25-510 Kielce<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Kontakt</b></span></font><br>\n<a href=\"mailto:hajdukhair@gmail.com\" class=\"text-info\">Email: hajdukhair@gmail.com</a><br>Tel, : <a href=\"tel:*48730104744\" class=\"text-info\">+48 730 104 744</a><br><br>",
+          "text1": "<strong>Adres</strong><br>Ul. Piotrkowska 31/3<br>25-510 Kielce<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Kontakt</b></span></font><br>\n<a href=\"mailto:hajdukhair@gmail.com\" class=\"text-info\">Email: hajdukhair@gmail.com</a><br>Tel, : <a href=\"tel:*48730104744\" class=\"text-info\">+48&nbsp;</a>791 772 179<br><br>",
           "text2": "<p>Polska</p><p><br></p><p>Salon, fryzjer, studio, przedłużanie włosów, strzyżenie, hajdukhair, hajduk,</p><p>uroda, trychologia, trycholog, keratyna.<span style=\"font-size: 0.875rem;\">&nbsp;</span></p>",
           "_tags": [
             "Motywy"
@@ -1214,7 +1214,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "sklep",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1236,7 +1236,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/p/B3UUP5QlR-5/\" target=\"_blank\">STUDIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sklep.html\"><span class=\"mobi-mbri mobi-mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">SZKOLENIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#testimonials2-s\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CENNIK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials2-s\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials2-s\" aria-expanded=\"false\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials2-s\" aria-expanded=\"false\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/p/B3UUP5QlR-5/\" target=\"_blank\">STUDIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sklep.html\">SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
           "_tags": [
             "Motywy"
           ],
@@ -1309,7 +1309,7 @@
               "color": "#faaf40"
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:+48730104744\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">+ 48 730 104 744</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:+48730104744\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">+ 48 791 772 179</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-z"
         },
@@ -2222,7 +2222,297 @@
               "state": "ok"
             }
           },
-          "text1": "<strong>Adres</strong><br>Ul. Piotrkowska 31/3<br>25-510 Kielce<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Kontakt</b></span></font><br>\n<a href=\"mailto:hajdukhair@gmail.com\" class=\"text-info\">Email: hajdukhair@gmail.com</a><br>Tel, : <a href=\"tel:*48730104744\" class=\"text-info\">+48 730 104 744</a><br><br>",
+          "text1": "<strong>Adres</strong><br>Ul. Piotrkowska 31/3<br>25-510 Kielce<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Kontakt</b></span></font><br>\n<a href=\"mailto:hajdukhair@gmail.com\" class=\"text-info\">Email: hajdukhair@gmail.com</a><br>Tel, : <a href=\"tel:*48730104744\" class=\"text-info\">+48&nbsp;</a>791 772 179<br><br>",
+          "text2": "<p>Polska</p><p><br></p><p>Salon, fryzjer, studio, przedłużanie włosów, strzyżenie, hajdukhair, hajduk,</p><p>uroda, trychologia, trycholog, keratyna.<span style=\"font-size: 0.875rem;\">&nbsp;</span></p>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "DIV": {
+              "text-align": "left",
+              "color": "#bfcecb"
+            }
+          },
+          "_anchor": "contacts2-10"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "SZKOLENIA",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#66605e",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">USŁUGI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials4-d\" aria-expanded=\"false\">Analiza skóry głowy i włosów</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-h\" aria-expanded=\"false\" target=\"_blank\">Strzyżenie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-j\" aria-expanded=\"false\">Koloryzacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-k\" aria-expanded=\"false\">Stylizacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-l\" aria-expanded=\"false\">Pielęgnacja</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-m\" aria-expanded=\"false\">Zabieg keratynowy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-o\" aria-expanded=\"false\">Przedłużanie / zagęszczanie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">SZKOLENIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#testimonials2-s\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CENNIK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials2-s\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials2-s\" aria-expanded=\"false\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials2-s\" aria-expanded=\"false\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/malgorzatahajduk_fashionhair/?hl=pl\" target=\"_blank\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/p/B3UUP5QlR-5/\" target=\"_blank\">STUDIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sklep.html\">SKLEP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-f\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">ZAKUPY</a></li>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#4b4746"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#5e5957!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#66605e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#000000!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo%20maciek%20bia%C5%81e-120x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "mobirise-icons-bold",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true,
+              "color": "#faaf40"
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel:+48730104744\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">+ 48 791 772 179</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-z"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-15"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-size": "60px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<i>SZKOLENIA</i>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-16"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-12"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2517.709565637487!2d20.626040215561716!3d50.873576364667066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471827ec85917eb9%3A0xe86631d7778a2b72!2sPiotrkowska%2031%2C%2025-510%20Kielce!5e0!3m2!1spl!2spl!4v1570378177265!5m2!1spl!2spl\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\"></iframe>",
+              "placeId": "iframe",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>Adres</strong><br>Ul. Piotrkowska 31/3<br>25-510 Kielce<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Kontakt</b></span></font><br>\n<a href=\"mailto:hajdukhair@gmail.com\" class=\"text-info\">Email: hajdukhair@gmail.com</a><br>Tel, : <a href=\"tel:*48730104744\" class=\"text-info\">+48&nbsp;</a>791 772 179<br><br>",
           "text2": "<p>Polska</p><p><br></p><p>Salon, fryzjer, studio, przedłużanie włosów, strzyżenie, hajdukhair, hajduk,</p><p>uroda, trychologia, trycholog, keratyna.<span style=\"font-size: 0.875rem;\">&nbsp;</span></p>",
           "_tags": [
             "Motywy"
