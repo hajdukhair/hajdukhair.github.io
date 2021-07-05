@@ -955,6 +955,9 @@ section.form .container {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 60px;
 }
+#features3-12 P {
+  text-align: left;
+}
 #contacts2-10 P {
   text-align: left;
   color: #efefef;
