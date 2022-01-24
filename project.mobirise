@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "hajdukhair",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -455,7 +455,7 @@
             {
               "authorName": "Jhollman C.",
               "authorBio": "User",
-              "text": "<p>Strzyżenie damskie (w tym mycie głowy oraz stylizacja) &nbsp; 100 - 150 zł&nbsp;</p>",
+              "text": "<p>Strzyżenie damskie (w tym mycie głowy oraz stylizacja) &nbsp; 120 - 180 zł&nbsp;</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -469,7 +469,7 @@
             {
               "authorName": "John Smith",
               "authorBio": "Developer",
-              "text": "<p>Strzyżenie męskie ( w tym mycie oraz stylizacja ) &nbsp; 60 - 90 zł</p><p>Trymowanie wąsów i brody &nbsp; 30 zł</p><p>Cover (tuszowanie siwych włosów) &nbsp; 100 zł</p>",
+              "text": "<p>Strzyżenie męskie ( w tym mycie oraz stylizacja ) &nbsp; 70 - 110 zł</p><p>Trymowanie wąsów i brody &nbsp; 50 zł</p><p>Cover (tuszowanie siwych włosów) &nbsp; 100 zł</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -483,7 +483,7 @@
             {
               "authorName": "John Smith",
               "authorBio": "Developer",
-              "text": "<p>Koloryzacja ( w tym mycie, stylizacja )</p><p>strzyżenie przy zabiegu koloryzacji &nbsp;50 % ceny strzyżenia</p><p>globalna &nbsp; 230 -280 zł</p><p>wielotonowa &nbsp; 280 - 400 zł</p><p>refleksy po koronie &nbsp; 200 - 250 zł</p><p>dekoloryzacja globalna odrost &nbsp; 200 - 300 zł</p><p>balayage &nbsp; 250 - 380 zł</p><p>tonowanie ( po zabiegu rozjaśniania ) &nbsp; + 100 zł</p><p>modyfikacja koloru - cena ustalana indywidualnie&nbsp;</p><p>prekoloryzacja &nbsp; 50 - 150 zł</p><p>cover - dla mężczyzn ( cena nie dotyczy strzyżenia ) &nbsp; 100 zł</p>",
+              "text": "<p>Koloryzacja ( w tym mycie, stylizacja )</p><p>strzyżenie przy zabiegu koloryzacji &nbsp;50 % ceny strzyżenia</p><p>globalna &nbsp; 250 -300 zł</p><p>wielotonowa &nbsp; 300 - 450 zł</p><p>refleksy po koronie &nbsp; 230 - 280 zł</p><p>dekoloryzacja globalna odrost &nbsp; 250 - 350 zł</p><p>balayage &nbsp; 280 - 400 zł</p><p>tonowanie ( po zabiegu rozjaśniania ) &nbsp; + 150 zł</p><p>modyfikacja koloru - cena ustalana indywidualnie&nbsp;</p><p>prekoloryzacja &nbsp; 50 - 150 zł</p><p>cover - dla mężczyzn ( cena nie dotyczy strzyżenia ) &nbsp; 100 zł</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -497,7 +497,7 @@
             {
               "authorName": "John Smith",
               "authorBio": "Developer",
-              "text": "<p>Stylizacja :</p><p>modelowanie &nbsp; 60 -100 zł</p><p>prostowanie &nbsp; 80 - 120 zł</p><p>wieczorowa &nbsp; 180 - 280 zł</p><p>ślubna &nbsp; 280 - 400 zł</p>",
+              "text": "<p>Stylizacja :</p><p>modelowanie &nbsp; 80 -130 zł</p><p>prostowanie &nbsp; 100 - 150 zł</p><p>wieczorowa &nbsp; 200 - 300 zł</p><p>ślubna &nbsp; 300 - 400 zł</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -511,7 +511,7 @@
             {
               "authorName": "John Smith",
               "authorBio": "Developer",
-              "text": "<p>Rytuał pielęgnacyjny &nbsp; 100 -150 zł</p><p>Nawilżanie &nbsp; 50 - 100 zł</p>",
+              "text": "<p>Rytuał pielęgnacyjny &nbsp; 130 -180 zł</p><p>Nawilżanie &nbsp; 80 - 150 zł</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -525,7 +525,7 @@
             {
               "authorName": "John Smith",
               "authorBio": "Developer",
-              "text": "<p>Zabieg keratynowy &nbsp; 300 - 600 zł</p>",
+              "text": "<p>Zabieg keratynowy &nbsp; 350 - 700 zł</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -539,7 +539,7 @@
             {
               "authorName": "John Smith",
               "authorBio": "Developer",
-              "text": "<p>Przedłużanie / zagęszczanie :</p><p>1 gram włosów z założeniem &nbsp; 15 - 20 zł</p><p>korekta ( podciąganie pasemka ) &nbsp; 10 zł</p><p>zdjęcie włosów &nbsp; 100 zł / godzina</p><p>metoda kanapkowa - cena uzależniona od ilości kanapek</p><p>1 kanapka z założeniem &nbsp; 80 - 100 zł</p><p>korekta ( podciągnięcie taśmy ) &nbsp; 10 zł &nbsp;/ &nbsp;kanapka &nbsp; 20 zł</p><p>zdjęcie kanapek &nbsp; 60 - 100 zł</p>",
+              "text": "<p>Przedłużanie / zagęszczanie :</p><p>1 gram włosów z założeniem &nbsp; 18 - 35 zł</p><p>korekta ( podciąganie pasemka ) &nbsp; 13 zł</p><p>konsutacja &nbsp; 100 zł</p><p>zdjęcie włosów &nbsp; 120 zł / godzina</p><p>włosy dziewicze &nbsp; wycena indywidualna</p><p>metoda kanapkowa - cena uzależniona od ilości kanapek</p><p>1 kanapka z założeniem &nbsp; 80 - 100 zł</p><p>korekta ( podciągnięcie taśmy ) &nbsp; 10 zł &nbsp;/ &nbsp;kanapka &nbsp; 20 zł</p><p>zdjęcie kanapek &nbsp; 120 zł</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
